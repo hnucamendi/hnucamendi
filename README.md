@@ -8,9 +8,9 @@
 
 <!-- ![trophies](https://github-profile-trophy.vercel.app/?username=hnucamendi) -->
 <div class="test">
-<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="50%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="50%" align="left" display="inline" />
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=hnucamendi) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi" width="50%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi" width="50%" align="right" display="inline" />
 <!-- ![top-laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi) -->
 </div>
 </div>

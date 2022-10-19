@@ -4,6 +4,7 @@
 
 <!-- ![streak](https://github-readme-streak-stats.herokuapp.com/?user=hnucamendi) -->
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnucamendi&theme=vue" width="100%"/>
 ![profile-overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnucamendi&theme=vue)
 
 <!-- ![trophies](https://github-profile-trophy.vercel.app/?username=hnucamendi) -->

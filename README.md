@@ -7,13 +7,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnucamendi&theme=vue" width="100%"/>
 
 <!-- ![trophies](https://github-profile-trophy.vercel.app/?username=hnucamendi) -->
+<div display="flex">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="50%" />
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=hnucamendi) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi" width="50%" />
 <!-- ![top-laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi) -->
+</div>
 
 </div>
 <!--

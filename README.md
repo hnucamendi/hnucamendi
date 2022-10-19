@@ -4,20 +4,8 @@
 
 <!-- ![streak](https://github-readme-streak-stats.herokuapp.com/?user=hnucamendi) -->
 <div>
-<style>
-img {
-  display:inline;
-}
-</style>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnucamendi&theme=vue" width="100%"/>
-
-<!-- ![trophies](https://github-profile-trophy.vercel.app/?username=hnucamendi) -->
-<div class="test">
-<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="50%" align="left" display="inline" />
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=hnucamendi) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi" width="50%" align="right" display="inline" />
-<!-- ![top-laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi) -->
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=hnucamendi" width="100%" />
 </div>
 <!--
 **hnucamendi/hnucamendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

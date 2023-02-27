@@ -47,4 +47,4 @@ With this goal in mind, I left college and enrolled in a bootcamp, where I honed
 
 Today, I am passionate about technology and find particular fascination in areas such as AI, game development, web development, firmware, and backend engineering. These fields present unique challenges, such as the complexities of creating effective UI/UX and developing firmware. However, I am always seeking opportunities to expand my knowledge and improve my skills in these areas.
 
-As a professional software engineer, I am committed to ongoing learning and experimentation with new technologies. I am driven by a deep curiosity and a desire to stay ahead of emerging trends and developments in the field. Whether working independently or as part of a team, I approach every project with a focus on quality, efficiency, and innovation.
+As a software engineer, I am committed to ongoing learning and experimentation with new technologies. I am driven by a deep curiosity and a desire to stay ahead of emerging trends and developments in the field. Whether working independently or as part of a team, I approach every project with a focus on quality, efficiency, and innovation.

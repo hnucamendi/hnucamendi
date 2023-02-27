@@ -2,7 +2,7 @@
 
 # hnucamendi
 
-Hey there, I'm Harold Arriola Nucamendi and I was born in Mexico. I'm a coding fanatic and it's hands down my favorite thing to do. Whenever I have some free time, I like to kick back and play video games, especially RPG, open-world, and FPS games. Photography is another passion of mine and I enjoy capturing the beauty of the world around me. I'm also a bit of a foodie and love trying new things, while also exploring different cultures. I get a lot of satisfaction from learning new languages too, which is another one of my top favorite interests.
+Hey there, I'm Harold and I was born in Mexico. I'm a coding fanatic and it's hands down my favorite thing to do. Whenever I have some free time, I like to kick back and play video games, especially RPG, open-world, and FPS games. Photography is another passion of mine and I enjoy capturing the beauty of the world around me. I'm also a bit of a foodie and love trying new things, while also exploring different cultures. I get a lot of satisfaction from learning new languages too, which is another one of my top favorite interests.
 
 ## <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Developer Tools
 

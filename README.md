@@ -31,7 +31,7 @@ Hey there, I'm Harold and I was born in Mexico. I'm a coding fanatic and it's ha
 
 <div align="center">
   <div style="display: flex; align-items: center; flex-direction:column;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" alt="wakatime-stats"  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi&layout=compact&langs_count=8&theme=github_dark"/></a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" alt="wakatime-stats"  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnucamendi&layout=compact&langs_count=8&theme=github_dark"/></a> -->
 <img align="top" alt="Git" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=hnucamendi&show_icons=true&theme=github_dark"/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" alt="wakatime-stats"  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=hnucamendi&theme=github_dark"/></a>
   </div>

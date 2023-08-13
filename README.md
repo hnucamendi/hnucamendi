@@ -35,7 +35,12 @@ Hey there, I'm Harold and I was born in Mexico. I'm a coding fanatic and it's ha
 <img align="top" alt="Git" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=hnucamendi&show_icons=true&theme=github_dark"/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" alt="wakatime-stats"  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=hnucamendi&theme=github_dark"/></a>
   </div>
+<a href="https://github.com/hnucamendi/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hnucamendi&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=github_dark" alt="hnucamendi's Github stats" />
+</a>
 </div>
+
+
 
 #
 

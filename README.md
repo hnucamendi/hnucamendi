@@ -4,23 +4,13 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harold@hnucamendi.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AVzPx3wbzpg2fVRTQM4rD?si=Uhlew1C4T4O-E7oVGow3Rw)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-181818?style=flat-square&logo=letterboxd&logoColor=00E054)](https://letterboxd.com/oldjimmy/)
-
-<<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/hnucamendi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://hnucamendi.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox" />
   </a>
-  ...
-</p>p align="center">
-  <a href="https://www.linkedin.com/in/hnucamendi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://hnucamendi.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox" />
-  </a>
-  ...
 </p>
 Welcome! My name is Harold. I'm a Software Engineer based in North Carolina, working primarily with Go, Node, AWS, and Terraform. These days, I focus on maintaining backend systems and collaborating with cross-functional teams to deliver internal product tooling.
 

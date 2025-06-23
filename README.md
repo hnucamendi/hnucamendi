@@ -1,5 +1,5 @@
 # hnucamendi
-###### ハロルドアリオラニュカメンディ
+#### Harold Arriola Nucamendi (ハロルドアリオラニュカメンディ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hnucamendi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox)](https://hnucamendi.com)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harold@hnucamendi.com)

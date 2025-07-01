@@ -5,20 +5,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AVzPx3wbzpg2fVRTQM4rD?si=Uhlew1C4T4O-E7oVGow3Rw)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-181818?style=flat-square&logo=letterboxd&logoColor=00E054)](https://letterboxd.com/oldjimmy/)
 
-<link rel="stylesheet" href="https://unpkg.com/@antonz/codapi@0.19.10/dist/snippet.css" />
-<script src="https://unpkg.com/@antonz/codapi@0.19.10/dist/snippet.js"></script>
-<pre><code>
-msg = "Hello, World!"
-print(msg)
-</code></pre>
-
-<pre><code>
-msg = "Hello, World!"
-print(msg)
-</code></pre>
-
-<codapi-snippet sandbox="python" editor="basic"></codapi-snippet>
-
 Welcome! My name is Harold. I'm a Software Engineer based in North Carolina, working primarily with Go, Node, AWS, and Terraform. These days, I focus on maintaining backend systems and collaborating with cross-functional teams to deliver internal product tooling.
 
 ## <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Developer Tools

@@ -10,6 +10,13 @@ msg = "Hello, World!"
 print(msg)
 </code></pre>
 
+<pre><code>
+msg = "Hello, World!"
+print(msg)
+</code></pre>
+
+<codapi-snippet sandbox="python" editor="basic"></codapi-snippet>
+
 Welcome! My name is Harold. I'm a Software Engineer based in North Carolina, working primarily with Go, Node, AWS, and Terraform. These days, I focus on maintaining backend systems and collaborating with cross-functional teams to deliver internal product tooling.
 
 ## <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Developer Tools

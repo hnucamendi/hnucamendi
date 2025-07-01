@@ -5,18 +5,10 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AVzPx3wbzpg2fVRTQM4rD?si=Uhlew1C4T4O-E7oVGow3Rw)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-181818?style=flat-square&logo=letterboxd&logoColor=00E054)](https://letterboxd.com/oldjimmy/)
 
-<script id="main.py" type="text/plain">
-def greet(name):
-    print(f"Hello, {name}!")
-
-##CODE##
-</script>
-
 <pre><code>
-greet("World")
+msg = "Hello, World!"
+print(msg)
 </code></pre>
-
-<codapi-snippet sandbox="python" template="#main.py"></codapi-snippet>
 
 Welcome! My name is Harold. I'm a Software Engineer based in North Carolina, working primarily with Go, Node, AWS, and Terraform. These days, I focus on maintaining backend systems and collaborating with cross-functional teams to deliver internal product tooling.
 

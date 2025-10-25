@@ -8,5 +8,5 @@
 
 ## <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Developer Tools
 
-[![Tech Languages]("https://skillicons.dev/icons?i=ts,js,go,terraform,git,java,html,css")]("https://skillicons.")
-[![Tech Frameworks & Tools]("https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,react")]("https://skillicons.")
+[![Tech Languages]("https://skillicons.dev/icons?i=ts,js,go,terraform,git,java,html,css")]("https://skillicons.dev")
+[![Tech Frameworks & Tools]("https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,react")]("https://skillicons.dev")

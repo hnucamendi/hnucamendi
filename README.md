@@ -8,4 +8,4 @@
 
 | Languages                                                                                                    | Tools                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [![Tech Languages](https://skillicons.dev/icons?i=ts,js,go,terraform,java,mysql,postgres,lua,md,html,css)](https://skillicons.dev) | [![Tech Frameworks & Tools](https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,nextjs,grafana,githubactions,react,docker,figma,linux,arch,mint,apple)](https://skillicons.dev) |
+| [![Tech Languages](https://skillicons.dev/icons?i=ts,js,go,terraform,cpp,bash,python,java,mysql,postgres,lua,md,html,css&perline=5)](https://skillicons.dev) | [![Tech Frameworks & Tools](https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,nextjs,grafana,githubactions,react,docker,figma,linux,arch,mint,apple&perline=5)](https://skillicons.dev) |

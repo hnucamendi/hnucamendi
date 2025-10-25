@@ -6,7 +6,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AVzPx3wbzpg2fVRTQM4rD?si=Uhlew1C4T4O-E7oVGow3Rw)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-181818?style=flat-square&logo=letterboxd&logoColor=00E054)](https://letterboxd.com/oldjimmy/)
 
-## <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Developer Tools
-
-[![Tech Languages]("https://skillicons.dev/icons?i=ts,js,go,terraform,git,java,html,css")]("https://skillicons.dev")
-[![Tech Frameworks & Tools]("https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,react")]("https://skillicons.dev")
+| Languages                                                                                                    | Tools                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![Tech Languages](https://skillicons.dev/icons?i=ts,js,go,terraform,java,mysql,postgres,lua,md,html,css)](https://skillicons.dev) | [![Tech Frameworks & Tools](https://skillicons.dev/icons?i=neovim,aws,git,bun,postman,nodejs,nextjs,grafana,githubactions,react,docker,figma,linux,arch,mint,apple)](https://skillicons.dev) |
